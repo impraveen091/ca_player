@@ -1,0 +1,11 @@
+export const PLAY = require('../images/play_button.png');
+export const PAUSE = require('../images/pause_button.png');
+export const BACK = require('../images/ten_back.png');
+export const FORWARD = require('../images/ten_forward.png');
+export const FULL_SCREEN = require('../images/full_screen.png');
+export const PLAYER_LOGO = require('../images/player.png');
+export const BACK_B = require('../images/back.png');
+export const USER = require('../images/user.png');
+export const BIRD = require('../images/bird.png');
+export const BUST = require('../images/bust.png');
+export const DEMO = require('../images/demo.png');
